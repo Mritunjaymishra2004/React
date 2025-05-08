@@ -99,3 +99,12 @@ a.image <imag .. > tag are not clossing tag but use in react closing tad <imag .
                                                                     for help --> UseCallBack for password Genrator
 
 npm i react-router-dom --> instal this basic pakegdom
+
+Redux  --> react-redux  Liberary
+redex-toolkit
+
+use two Liberary
+                                              help to here --> https://redux-toolkit.js.org/introduction/getting-started
+npm install @reduxjs/toolkit
+npm install react-redux
+
