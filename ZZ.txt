@@ -20,7 +20,7 @@ npm run start / build --> run file only one/
 instal Vit
 
 npm create vite@latest
-01vitereact
+cd 01vitereact
 react
 javascript
 
